@@ -1,0 +1,13 @@
+Package: CS599Kmeans.DAA
+Title: KMeans Package for my CS599 class
+Version: 2023.12.04
+Authors@R: 
+    person("Doris", "Amoakohene",
+     email = "daa464@nau.edu",
+     role = c("aut", "cre"))
+Description: CS599Kmeans.DAA is an R package that provides an implementation of the K-means clustering algorithm.This package offers efficient and customizable functions for performing K-means clustering on datasets, allowing users to specify the number of clusters and various initialization methods.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+
